@@ -22,7 +22,7 @@ The player rolls two dice.
 ## How to Run
 
 1. Clone or download the project.
-2. Open the project in Android Studio or VS Code.
+2. Open the project in Android Studio or VS Code and put screens,widgets and main.dart inside lib and assets,pubspec.yaml inside project.
 3. Run:
 
 ```bash
